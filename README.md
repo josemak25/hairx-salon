@@ -1,1 +1,1 @@
-# babybliss-app
+# hairx salon app
