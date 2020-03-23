@@ -1,1 +1,1 @@
-# hairx client app
+# hairx salon app
